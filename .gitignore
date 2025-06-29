@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.env
+
+# Model files
+*.pkl
+
+# Data files
+uploads/
+*.csv
+
+# VS Code
+.vscode/
