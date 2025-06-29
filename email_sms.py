@@ -3,7 +3,7 @@ def send_email_alert(msg):
     from email.message import EmailMessage
 
     EMAIL_ADDRESS = "testprojects880@gmail.com"
-    EMAIL_PASSWORD = "iamlearningml"
+    EMAIL_PASSWORD = "*********"
 
     msg_obj = EmailMessage()
     msg_obj.set_content(msg)
